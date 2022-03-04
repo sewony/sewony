@@ -2,7 +2,7 @@
 - 👀 I’m interested in
 :musical_keyboard: :movie_camera:
 - 🌱 I’m currently learning 
-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=blue"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=blueviolet"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=red"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=orange"/>
