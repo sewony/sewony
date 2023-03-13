@@ -3,12 +3,14 @@
 :musical_keyboard: :movie_camera:
 - 🌱 I’m currently learning 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=blueviolet"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=red"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=orange"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=green"/>
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 
 - 📫 youpisewon@naver.com
 <!---
