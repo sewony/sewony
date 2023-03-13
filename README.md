@@ -8,7 +8,8 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=orange"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=green"/>
-	![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 - 📫 youpisewon@naver.com
 <!---
 sewony/sewony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
